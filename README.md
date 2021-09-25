@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luca.
 - 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning computer programming.
-- 💞️ I’m looking to collaborate on websites.
+- 🌱 I’m currently learning the piano.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me email: lucapiccone23@gmail.com
 
 <!---
